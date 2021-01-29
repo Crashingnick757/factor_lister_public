@@ -5,7 +5,7 @@ var number_of_numbers = numbers.length;
 
 var number_list = numbers;
 
-console.log(number_of_numbers+" Numbers are "+number_list);
+console.log("There are "+number_of_numbers+" numbers, and they are are "+number_list);
 
 for (var i = 0; i < numbers.length; i++) {
 var factors = require("./factors/"+numbers[i]+".json");
