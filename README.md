@@ -6,6 +6,6 @@ To use the file, download all the files, extract them, edit the array in factor_
   <br>
   There are 2 numbers, and they are are 10,3
   <br>
-  Factors of 10 are 1,10,"\_".,2,5
+  Factors of 10 are 1,10,"\_",2,5
  <br>
   3 is a prime number
